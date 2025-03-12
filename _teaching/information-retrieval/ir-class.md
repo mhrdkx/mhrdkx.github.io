@@ -10,8 +10,6 @@ location: "Manado, Indonesia"
 
 ## Choose your class
 
----
-
 - ### IR-2425 Navigate [here](2425-class/00-ir-intro)
 - ### IR-2324
 - ### IR-2223
