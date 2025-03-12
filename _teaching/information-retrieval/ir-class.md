@@ -12,7 +12,7 @@ location: "Manado, Indonesia"
 
 ---
 
-- ### IR-2425 Navigate [here](2425-class/2025-information-retrieval-4)
+- ### IR-2425 Navigate [here](2425-class/00-ir-intro)
 - ### IR-2324
 - ### IR-2223
 - ### IR-2122
