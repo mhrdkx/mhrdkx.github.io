@@ -2,7 +2,7 @@
 title: "Information Retrieval"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2024-ir-4
+permalink: /teaching/information-retrieval/2425-class/2025-information-retrieval-4
 venue: "Universitas Sam Ratulangi, Sistem Informasi"
 date: 2025-01-01
 location: "Manado, Indonesia"
