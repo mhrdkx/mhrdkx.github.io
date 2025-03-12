@@ -1,6 +1,6 @@
 ---
 title: "Information Retrieval"
-collection: teaching
+# collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/information-retrieval/ir-class
 venue: "Universitas Sam Ratulangi, Sistem Informasi"
