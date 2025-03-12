@@ -1,11 +1,12 @@
 ---
 title: "Information Retrieval"
-collection: teaching
+# collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/information-retrieval/2425-class/01-ir-webir
 venue: "Universitas Sam Ratulangi, Sistem Informasi"
 date: 2025-01-01
 location: "Manado, Indonesia"
+author_profile: false
 ---
 
 ## **Materi 1: Pengenalan Web Information Retrieval**

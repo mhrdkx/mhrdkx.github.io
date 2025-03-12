@@ -6,6 +6,7 @@ permalink: /teaching/information-retrieval/ir-class
 venue: "Universitas Sam Ratulangi, Sistem Informasi"
 date: 2025-01-01
 location: "Manado, Indonesia"
+author_profile: false
 ---
 
 ## Choose your class
