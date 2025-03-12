@@ -9,6 +9,8 @@ location: "Manado, Indonesia"
 author_profile: false
 ---
 
+Koleksi kelas Information Retrieval
+
 ## Choose your class
 
 - ### IR-2425 Navigate [here](2425-class/00-ir-intro)
