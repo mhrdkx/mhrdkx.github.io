@@ -1,5 +1,5 @@
 ---
-title: "Information Retrieval"
+title: "Introduction to Information Retrieval"
 # collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/information-retrieval/2425-class/01-ir-webir
