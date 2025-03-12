@@ -8,7 +8,7 @@ date: 2025-01-01
 location: "Manado, Indonesia"
 ---
 
-### **Materi 1: Pengenalan Web Information Retrieval**
+### [Materi 1: Pengenalan Web Information Retrieval](01-ir-webir)
 
 - **Teori**:
   - Definisi dan ruang lingkup Web Information Retrieval.
