@@ -1,11 +1,11 @@
 ---
 title: "Web Information Retrieval Description"
-# collection: teaching
-# type: "Undergraduate course"
-# permalink: /teaching/information-retrieval/2425-class/00-ir-intro
-# venue: "Universitas Sam Ratulangi, Sistem Informasi"
-# date: 2025-01-01
-# location: "Manado, Indonesia"
+collection: teaching
+type: "Undergraduate course"
+permalink: /teaching/information-retrieval/2425-class/00-ir-intro
+venue: "Universitas Sam Ratulangi, Sistem Informasi"
+date: 2025-01-01
+location: "Manado, Indonesia"
 author_profile: false
 ---
 
